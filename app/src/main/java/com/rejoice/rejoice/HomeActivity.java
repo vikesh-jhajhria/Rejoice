@@ -33,6 +33,7 @@ public class HomeActivity extends AppCompatActivity
     private ImageView headerImage;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //commment...
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         headerImage = (ImageView) findViewById(R.id.htab_header);
@@ -68,6 +69,7 @@ public class HomeActivity extends AppCompatActivity
         adapter.addFragment(VegFragment.newInstance(""), Config.VEG);
         adapter.addFragment(VegFragment.newInstance(""), Config.NONVEG);
         adapter.addFragment(VegFragment.newInstance(""), Config.DRINKS);
+        adapter.addFragment(VegFragment.newInstance(""), Config.SNACKS);
         viewPager.setAdapter(adapter);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabLayout);
@@ -100,6 +102,11 @@ public class HomeActivity extends AppCompatActivity
                             R.drawable.header2);
                 }
                 if (position == 2) {
+                    headerImage.setBackgroundResource(R.drawable.dubu);
+                    bitmap = BitmapFactory.decodeResource(getResources(),
+                            R.drawable.dubu);
+                }
+                if (position == 3) {
                     headerImage.setBackgroundResource(R.drawable.dubu);
                     bitmap = BitmapFactory.decodeResource(getResources(),
                             R.drawable.dubu);
