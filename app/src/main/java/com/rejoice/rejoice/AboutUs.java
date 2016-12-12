@@ -19,9 +19,9 @@ public class AboutUs extends AppCompatActivity {
         setContentView(R.layout.activity_about_us);
 
         flowTextView = (FlowTextView) findViewById(R.id.ftv);
-        String content = getString(R.string.lorem);
-        Spanned html = Html.fromHtml(content);
-        flowTextView.setText(html);
+        flowTextView.setTextColor(getResources().getColor(android.R.color.white));
+        flowTextView.setTextSize(getResources().getDimension(R.dimen.font_14));
+        flowTextView.setText(getString(R.string.about_text));
 
 
         // handle link behaviour

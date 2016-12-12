@@ -18,15 +18,39 @@
     <string name="skip_login">Skip Login</string>
     <string name="cancel_login">Cancel Login</string>
 
-    <string name="lorem"><![CDATA[<html>Lorem <b>ipsum dolor</b> sit amet, consectetur adipiscing elit. <a href="http://www.google.com">In sed massa diam</a>. Integer leo tortor, sagittis eget blandit et, malesuada id odio. Proin gravida dui imperdiet, tempor augue eu, euismod odio. Vivamus nec euismod neque. Nam sed turpis ac arcu consectetur tristique sed et odio. Vivamus posuere aliquet mi vitae bibendum. Suspendisse potenti. Morbi mattis sed nisl sit amet tristique. Nunc mattis porta sem, nec eleifend metus pellentesque non. Mauris tincidunt justo eu magna bibendum feugiat. Suspendisse semper risus dui, non ullamcorper metus scelerisque eu. Proin suscipit nisi non arcu egestas, in adipiscing neque pharetra. Praesent ullamcorper hendrerit enim. Donec in est eget ligula fringilla dictum. Maecenas sodales sem in lacus imperdiet convallis.
+    <string name="about_title">About the Octagon Project</string>
 
-Vestibulum urna mi, eleifend vel massa ut, facilisis lacinia lacus. Mauris sodales dolor eu ligula placerat, et interdum lectus mattis. Nulla tempor hendrerit odio, et suscipit enim convallis in. Morbi vehicula risus lectus. Integer mattis, lacus tincidunt tristique egestas, orci lorem tristique dolor, quis aliquam sem arcu nec eros. Aenean dui est, adipiscing quis massa id, scelerisque euismod orci. Fusce in lacus id nisi hendrerit elementum. In nec lacus luctus, volutpat odio ut, ullamcorper enim. Pellentesque dapibus massa ut magna rutrum, in accumsan lorem feugiat. Vivamus luctus elit tellus.
+    <string name="about_text">Dr. Gary Crossland is a Biblical Greek Professor, as well as an historian, author and documentary producer. For many years, he has been leading tours to the Holy Land, publishing videos about Israel, Jordan and Egypt, and guiding fellow scholars to rare and significant Biblical sites. In his journeys Dr. Crossland has literally retraced every recorded footstep of Jesus Christ, studying each site, and archiving thousands of hours of video footage.\n\n
 
-Fusce sit amet tempus libero. Nunc feugiat dignissim purus vitae tempus. Nam adipiscing nulla ac urna congue, sed pulvinar lacus sagittis. Curabitur venenatis elit eget scelerisque ultrices. Ut porta magna pellentesque, convallis metus at, laoreet leo. Sed ac cursus mi. Maecenas mauris diam, luctus ac tortor aliquet, pretium laoreet odio. Nunc tincidunt a sem ut ornare. Donec suscipit tincidunt lacus, in consectetur neque facilisis eget.
+It seems divinely providential that, from a young age, Gary Crossland would pursue a lifelong career doing what his last name so obviously denotes; that is, taking people to the land of the cross. Dr. Crossland spends about three months out of every year in Israel and Jordan, filming, teaching and leading tours.\n\n
 
-Nullam imperdiet quam in dolor venenatis, sit amet venenatis nisi <b>eleifend</b>. Maecenas ligula lorem, egestas ut adipiscing in, gravida a est. Nam luctus massa in quam viverra, et suscipit nulla cursus. Ut ut vulputate enim. Mauris vulputate felis a quam varius sodales sit amet et augue. Proin sagittis mollis tempor. Curabitur nec quam in risus volutpat sagittis quis placerat sapien. Proin vulputate, ante vitae commodo auctor, quam nisi convallis lectus, eget sodales ligula arcu ac nulla. Praesent vulputate nec libero vel pulvinar.
+He is also the author of The Merged Gospels – the only book in history to literally translate the four canonized Gospels from the original Greek, breaking them down into four columns, then word-by-word, and reassembling them into a flowing narrative, without removing one word of Scripture. Scholars have called The Merged Gospels “a masterpiece”, “excellent”, “indispensable”, “a major work”, “powerful and unique”, and “highly recommended”.\n\n
 
-Donec feugiat ac nunc vel laoreet. In laoreet pretium fringilla. Suspendisse potenti. Praesent nec justo sagittis, scelerisque sem in, <b>egestas</b> massa. Vestibulum sed massa quis velit vehicula hendrerit vitae eget dui. Ut fringilla, lectus eget tristique tristique, orci urna consequat ligula, vitae hendrerit ipsum dui non sem. Duis lacinia arcu at libero dignissim facilisis. Quisque in ullamcorper dui.</html>]]></string>
+In our many travels to Israel, we have to come to realize that for every person who is fortunate enough to visit the Holy Land, there are hundreds of others who want to go, but cannot for various reasons – finances, health, mobility, scheduling, or family conflicts.\n\n
 
+In 2012 we learned about the emerging technology of virtual reality (used mostly by gamers), and its younger sibling, augmented reality, which primarily uses 360° live-action video. Through the convergence of history, Biblical geography and this new immersive video technology The Octagon Project was born in 2013.\n\n
+
+Today, The Octagon Project has grown into a team of highly-skilled video cameramen and technicians, specifically trained in the field of 360° full-spherical ultra-high-definition video production.\n\n
+
+Using The Merged Gospels as a walking guide through the Holy Land, The Octagon Project crew has captured and produced countless hours of breathtaking 360° video in over 200 stunning locations. The entire project is the equivalent of a 30-day, expertly-guided tour to the Holy Land.\n\n
+
+Our extended Octagon Project family includes a number of strategic partners, advisors, technicians and Israeli and Jordanian crew members.\n\n
+
+The Octagon Project is a 501(c)(3) charitable corporation with our main offices in San Antonio, Texas.</string>
+
+    <string name="policies_title">Bookstore Policies</string>
+    <string name="policies_text">• For bookstore orders, please call 405-227-8243, or email us at staff@octagonproject.com.\n\n
+
+• Credit cards will be accepted as the method of payment. If you wish us to keep your credit card information on file, we will process your order accordingly.\n\n
+
+• All publications will be sold to bookstores for 50% of their suggested retail price, plus the cost for shipping.\n\n
+
+• All products will be shipped on the same day, or the following business day.\n\n
+
+• Rush orders will be shipped, if you so instruct, by one of the express mail services.\n\n
+
+• If you prefer, we will ship via your account with any major carrier service.\n\n
+
+• Prices are subject to change without notices, and all sales are final.</string>
 
 </resources>

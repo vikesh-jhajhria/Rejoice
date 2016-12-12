@@ -36,7 +36,8 @@
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_key" />
 
-        <activity android:name=".AboutUs"></activity>
+        <activity android:name=".AboutUs" />
+        <activity android:name=".BookstorePolicy"></activity>
     </application>
 
 </manifest>
