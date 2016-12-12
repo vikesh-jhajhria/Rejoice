@@ -38,8 +38,8 @@ Our extended Octagon Project family includes a number of strategic partners, adv
 
 The Octagon Project is a 501(c)(3) charitable corporation with our main offices in San Antonio, Texas.</string>
 
-    <string name="policies_title">Bookstore Policies</string>
-    <string name="policies_text">• For bookstore orders, please call 405-227-8243, or email us at staff@octagonproject.com.\n\n
+    <string name="bookstore_policies_title">Bookstore Policies</string>
+    <string name="bookstore_policies_text">• For bookstore orders, please call 405-227-8243, or email us at staff@octagonproject.com.\n\n
 
 • Credit cards will be accepted as the method of payment. If you wish us to keep your credit card information on file, we will process your order accordingly.\n\n
 
@@ -53,4 +53,28 @@ The Octagon Project is a 501(c)(3) charitable corporation with our main offices 
 
 • Prices are subject to change without notices, and all sales are final.</string>
 
+
+    <string name="private_policy_title">Privacy Policy</string>
+    <string name="private_policy_text">We will never share your personal information with companies, organizations and individuals outside of The Octagon Project. We work hard to protect you from unauthorized access to or unauthorized alteration, disclosure or destruction of the information that we hold. For this reason:\n\n
+
+1. We encrypt many of our services using SSL (Secure Socket Layer), offering the strongest online encryption on the market.\n\n
+
+2. We process all of your credit card payments through PayPal, which offers our customers a wide choice of payment options, and a secure payment ecosystem for you to securely transact with us in more than 200 global markets, and in most global currencies.\n\n
+
+3. Our servers are housed at GoDaddy, offering the industry’s strongest protection against viruses, hackers and identity thieves. GoDaddy constantly reviews their information collection, storage and processing practices, including physical security measures, to guard you against unauthorized access to your data.\n\n
+
+4. When processed online, your credit card information is never captured by The Octagon Project, and is not known by anyone in our company. Additionally, all of your other personal information is restricted, and accessible to only the highest-level employees, who themselves are under strict contractual confidentiality obligations, and who will be terminated if they fail to meet these obligations.</string>
+
+    <string name="filming_permission_title">Filming Permissions</string>
+    <string name="filming_permission_text">The Octagon Project has been filming documentaries in Israel since 2005, and specifically using 360° video cameras since July, 2013.\n\n
+
+In its tour videos The Octagon Project had obtained written permission from every shrine and every archeological site that required such permission on the date of filming. Additionally, we were given verbal permission to film at these same locations on the day of filming by the local attendants at each site.\n\n
+
+All shrines controlled by the Custodia Terrae Sancta (the Franciscans) were filmed prior to February 11th, 2016. Subsequent to this date the Franciscans have officially disallowed any 360° filming of their shrines going forward. This stipulation reads, “7. No permission will be given to film with 360-degree cameras.” Christian Information Center\n\n
+
+The Octagon Project respects the right that the Custodia Terrae Sancta has over all activity at their shrines, and we have agreed to fully comply with this stipulation. Therefore, as of February 11th, 2016, we are no longer doing any 360° filming at shrines exclusively controlled by the Custodia Terrae Sanctae.\n\n
+
+Copies of specific written permissions may be furnished to appropriate parties upon request.\n\n
+
+Legal counsel for The Octagon Project is provided by The Justice Foundation - Texas Justice Foundation</string>
 </resources>

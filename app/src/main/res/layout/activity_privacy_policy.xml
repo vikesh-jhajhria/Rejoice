@@ -17,14 +17,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="15dp"
-            android:text="@string/bookstore_policies_title"
+            android:text="@string/private_policy_title"
             android:textColor="@color/colorAccent"
             android:textSize="18sp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/bookstore_policies_text"
+            android:text="@string/private_policy_text"
             android:textColor="@android:color/white"
             android:textSize="14sp" />
     </LinearLayout>

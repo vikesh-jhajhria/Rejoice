@@ -37,7 +37,9 @@
             android:value="@string/facebook_key" />
 
         <activity android:name=".AboutUs" />
-        <activity android:name=".BookstorePolicy"></activity>
+        <activity android:name=".BookstorePolicy" />
+        <activity android:name=".PrivacyPolicy" />
+        <activity android:name=".FAQ"></activity>
     </application>
 
 </manifest>
